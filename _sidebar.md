@@ -12,3 +12,6 @@
   - [Locales](/faq/locales.md)
   - [Voiceflow Terms of Service](/faq/legal/voiceflow-terms-of-service.md)
   - [Voiceflow Privacy Policy](/faq/legal/voiceflow-privacy-policy.md)
+
+- RELEASES
+  - [New releases 🔥](/releases/releases.md)
