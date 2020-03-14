@@ -4,5 +4,5 @@
 
 # documentation <small>2.0</small>
 
-[GitHub](https://github.com/voiceflow/documentation/)
+<!-- [GitHub](https://github.com/voiceflow/documentation/) -->
 [Get Started](home)
