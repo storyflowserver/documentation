@@ -4,7 +4,7 @@ What are locales and why are they important?
 
 Locales define region and language specific features, built in to both Alexa Skills and Google Actions. Locales can be restrictive in that many features are only available to certain countries or languages.
 
-## ***\*Resources:\****
+## **Resources:**
 
 - [Alexa: Locales Landing Page](https://developer.amazon.com/alexa-skills-kit/locales)
 - [Alexa: Slot Type Reference](https://developer.amazon.com/docs/custom-skills/slot-type-reference.html)

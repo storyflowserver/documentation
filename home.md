@@ -6,7 +6,7 @@ Voiceflow (VF) is the central platform for designing, prototyping, and building 
 
 Everything you want to know about Voiceflow - in one place.
 
-# ***\*Voiceflow Quickstart\** 🏁**
+# **Voiceflow Quickstart** 🏁
 
 Learn more about Voiceflow, from its features and functionality to best use cases.
 
