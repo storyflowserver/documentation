@@ -1,0 +1,30 @@
+nav .nav-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    padding: 10px 0;
+    border: 1px solid #ddd;
+    border-bottom-color: #ccc;
+    text-align: left;
+    border-radius: 4px;
+    white-space: nowrap;
+}
+
+.nav-dropdown-container:hover .nav-dropdown {
+        display: block;
+}
+
+.nav-dropdown-container {
+    position: relative;
+    display: inline-block;
+}
+
+.nav-dropdown-container a {
+    display: block;
+}
+
+.nav-dropdown-container a.active {
+    border-bottom: none;
+}

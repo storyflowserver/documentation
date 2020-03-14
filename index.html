@@ -9,22 +9,22 @@
   <!-- Theme: Simple -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 <link rel="stylesheet" href="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
-<link
-  rel="stylesheet"
-  href="_plugins/changelog/style.css"
-/>
+<!-- <link rel="stylesheet" href="_style/nav.css"/> -->
+<!-- <link rel="stylesheet" href="_plugins/changelog/style.css"/> -->
 <link
   rel="stylesheet"
   href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
 />
 </head>
 <body>
-  <div id="app">Please wait...</div>
+  <div id="app"></div>
   <nav></nav>
   <script>
     window.$docsify = {
+      basePath: '/doc/',
       coverpage: [
-        '/'
+        '/',
+        '/doc/fr-fr/'
       ],
     name: 'Voiceflow Docs',
     repo: 'https://voiceflow.github.io/documentation/',
@@ -35,6 +35,10 @@
       },
     relativePath: true,
     coverpage: true,
+    loadSidebar: true,
+    subMaxLevel: 4,
+    auto2top: true,
+    homepage: 'home.md',
     gifcontrol: {
       mode: 'hover',
       loadingWidth: '300px',
@@ -51,7 +55,7 @@
     search: 'auto', // default
     'flexible-alerts': {style: 'callout'},
     search : [
-      '/',            // => /README.md
+      '/en/',            // => /README.md
       '/guide',       // => /guide.md
       '/get-started', // => /get-started.md
       '/zh-cn/',      // => /zh-cn/README.md
@@ -77,9 +81,9 @@
       hideOtherSidebarContent: false, // whether or not to hide other sidebar content
       // To avoid search index collision
       // between multiple websites under the same domain
-      namespace: 'website-1',
+      namespace: 'voiceflow',
     },
-    loadNavbar : false, // IMPORTANT
+    loadNavbar: true,
     changelog : '_changelog/CHANGELOG.md'
   }
   </script>
@@ -97,7 +101,7 @@
 <!-- Latest -->
 <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
 <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
-<script src="_plugins/changelog/index.js"></script>
+<!-- <script src="_plugins/changelog/index.js"></script> -->
 <script src="//unpkg.com/docsify-glossary/dist/docsify-glossary.min.js"></script>
 <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>

@@ -4,5 +4,5 @@
 
 # documentation <small>2.0</small>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/voiceflow/documentation/)
+[Get Started](home)
