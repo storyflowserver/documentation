@@ -4,7 +4,7 @@ Everything new in Voiceflow, all in one place.
 
 # **February 4th, 2020 Release** 
 
-## **Important Functional Changes:**
+**Important Functional Changes:**
 
 - **Interaction** block is now the **Choice** block, what was previously the **Choice** block is now **Choice Old** and can be accessed from the spotlight (spacebar) search. [Video update](https://www.loom.com/share/f6f2b24626e94de68588487e10121e56)
 - The new **Choice** block introduces a more robust intent builder that accommodates slots and dialogue management. [Video Update](https://www.loom.com/share/b0885f6d04884d7787e366db01e49f02)
@@ -14,21 +14,21 @@ Everything new in Voiceflow, all in one place.
 - Slots are now also classified as variables, anywhere that you can use a variable you can use a slot as well. [Video Update](https://www.loom.com/share/9ec929a27bd74ea4ab395be5b6e03822)
 - **Interaction**, **Intent** and **Command** blocks no longer provide the option to map slots to variables for an Intent. Previous mappings will continue working but it is recommended to update your project to directly use the slot instead of the mapped variable. Voiceflow now automatically assigns slots and they can be used anywhere else in the project.
 
-## **Global Changes to All Editors**
+**Global Changes to All Editors**
 
 1. New drag step to re-arrange. [Video Update](https://www.loom.com/share/a01406e4c00d4de0970ab961a2be05c2)
 2. New drag step to trash.
 3. Updated header section style with a bug fix to input lag when updating the block name.
 4. Updated footer sections with 'how it works' popover menu (content being updated on an ongoing basis with new written and video tutorials planned for release).
 
-## **Speak Editor**
+**Speak Editor**
 
 1. Embedded SSML Editor. [Video Update](https://www.loom.com/share/dadb61ef9d18469f8d384f98a71a254e)
 2. Play text to speech.
 3. Listening to audio upload. [Video Update](https://www.loom.com/share/954ae54165f34c71b43093fe0febb12b)
 4. Randomization of outputs has been moved to the ellipsis button in the footer section of the editor.
 
-## **Choice Editor**
+**Choice Editor**
 
 [Side by side comparison video (old vs new)](https://www.loom.com/share/e3fc74393e4e49a8bbdc93bd5c214ad7)
 
@@ -39,7 +39,7 @@ Everything new in Voiceflow, all in one place.
 5. Color coded slot tags.
 6. No Reply Response option has been moved to the ellipsis button in the footer section of the editor.
 
-### **Dialogue Management:**
+**Dialogue Management:**
 
 [Full walkthrough video](https://www.loom.com/share/b0885f6d04884d7787e366db01e49f02)
 
@@ -47,37 +47,37 @@ Everything new in Voiceflow, all in one place.
 2. Allow for dynamic conversations that are flexible, multi-layered, and natural.
 3. Allow users to build faster, and in a more methodical manner.
 
-## **Other Changes:**
+**Other Changes:**
 
-## **Set Editor**
+**Set Editor**
 
 1. Ability to create variables directly from the variable dropdown.
 
-## **IF Editor**
+**IF Editor**
 
 1. Ability to create variables directly from all variable dropdowns.
 
-## **Capture Editor**
+**Capture Editor**
 
 1. Ability to create variables directly from the 'capture input to' dropdown.
 
-## **Random Editor**
+**Random Editor**
 
 1. New popover menu description for 'No duplicates' option.
 
-## **Stream Editor**
+**Stream Editor**
 
 1. 'Visual' section added to collapsable section with additional options.
 2. Custom pause option moved to footer inside the ellipsis button.
 3. Removed ability to upload audio hosted on Vocieflow (all existing uploaded audio is still hosted).
 
-## **Integrations Editor**
+**Integrations Editor**
 
 1. UI cleanup.
 2. New in-depth content 'how it works' popover.
 3. Google Sheets and Zapier editors remain in previous condition.
 
-## **Flow Editor**
+**Flow Editor**
 
 1. Ability to create or add a flow from the same dropdown.
 2. UI cleanup.
@@ -85,22 +85,22 @@ Everything new in Voiceflow, all in one place.
 4. New variable mapping UX.
 5. New content in 'What are flows' popover.
 
-## **Code Editor**
+**Code Editor**
 
 1. Minor UI bug fixes.
 2. Expand to fullscreen now inside the ellipsis menu in the section footer.
 
-## **Exit Editor**
+**Exit Editor**
 
 1. New content in 'how it works' popover.
 2. Minor UI updates.
 
-## **Card Editor**
+**Card Editor**
 
 1. New content in 'how it works' popover.
 2. UI updates.
 
-## **Display Editor (Under maintenance currently)**
+**Display Editor (Under maintenance currently)**
 
 1. Separated 'Splash' and 'Advanced' display types.
 2. New Splash screen section with the ability to upload images to be shown on Alexa instead of having to upload JSON files.
@@ -109,25 +109,25 @@ Everything new in Voiceflow, all in one place.
 5. UI overhaul.
 6. Removed secondary screen to configure and edit JSON.
 
-## **Permissions Editors**
+**Permissions Editors**
 
 1. New multi-select dropdown to choose all permission types you'd like to request.
 2. New content in 'How it works' popover.
 
-## **Account Linking (New Block)**
+**Account Linking (New Block)**
 
 1. We've made account linking a standalone block.
 2. Updated workflow for connecting your app to your third party service.
 3. New content in 'How it works' section.
 4. More info popovers for Scope and Domain tabs.
 
-## **User Info**
+**User Info**
 
 1. Updated UI.
 2. Ability to create variables from mapping dropdown.
 3. New content in 'How it works' section.
 
-## **Payment & Cancel Payment**
+**Payment & Cancel Payment**
 
 1. Updated UI where you can see all your products and their product image.
 2. Ability to add up-sell message directly from the editor.
@@ -136,7 +136,7 @@ Everything new in Voiceflow, all in one place.
 5. Ability to unlink a product moved to the ellipsis button in the footer section.
 6. New content in Cancel payment 'More info' popover.
 
-## **Why these changes?**
+**Why these changes?**
 
 These new features introduce a slew of UX enhancements and a standardized dialogue management interface that adheres to conventional conversational practices. This serves to support the creation of truly conversational experiences while also streamlining our building process for our creators.
 
@@ -144,36 +144,36 @@ We believe these changes will inspire genuine conversational experiences while a
 
 # **December 4th, 2019 Release**
 
-## **Real-time collaboration**
+**Real-time collaboration**
 
 1. VF real-time collaboration allows project owners to invite both editor collaborators, and viewers to their project.
 2. Editors have full collaborative permissions and can make changes to the project, while viewers can "view" the project but not make changes.
 3. Allowing users to see each other's cursors, and edits, in real-time as they happen.
 
-## **Why real-time collaboration?**
+**Why real-time collaboration?**
 
 Real-time Collaboration (RTC) is a foundational feature for VF which marks our commitment towards helping VUI designers not only work better with each other, but with their broader teams. RTC allows multiple people to be working on a single VF canvas at the same time. VF's RTC implementation aims to make the experience of working on a project as collaborative as possible by allowing users to see each other's cursors, and edits, in real-time as they happen.
 
-## **New pricing structure**
+**New pricing structure**
 
 1. New **Basic Plan** offers unlimited projects, all core features and community support at $0/mo
 2. New **Professional Plan** offers real-time collaboration, unlimited backups, up to 3 editors and priority support at $49/mo
 3. New **Team Plan** offers up to 10 editors, unlimited viewers, dedicated support + everything available in the Pro plan at $249/mo
 4. This updated pricing structure will be grandfathered in, and so existing paid users will remain at their current plan pricing.
 
-## **Why update the pricing structure?**
+**Why update the pricing structure?**
 
 When talking with our users it became clear that individual makers wanted unlimited projects, and professional users wanted collaboration features and dedicated support. So following our user's advice, we've changed our pricing to allow free users to have unlimited projects, and paid users to have support. We've increased the prices to accommodate for the lessor number of Pro users there are relative to general makers.
 
 # **Oct 30th, 2019 Release**
 
-## **Canvas Refactor**
+**Canvas Refactor**
 
 After overhauling the previous rendering engine and implementing a more modular code base, the canvas is quicker and more responsive than ever before. This improved functionality will help our team build and seamlessly integrate new features and plugins in the future.
 
 # **April 19th, 2019 Release**
 
-## **Collaboration**
+**Collaboration**
 
 1. The Dashboard has been turned into 'boards'. Each board acts as an individual workspace where you can add teammates. All existing projects have been moved to your 'personal' board.
 2. Adding collaborators to a board can be done from the dashboard.
@@ -184,7 +184,7 @@ We built this feature due to demand from creators and businesses, along with our
 
 Future feature additions will include: live canvas collaboration, user testing, change-logs, and project handoff.
 
-## **Integrations (Google Sheets)**
+**Integrations (Google Sheets)**
 
 1. Integrations block has replaced the API block. Custom API's can be accessed from within this block's content menu (right bar).
 2. We're launching this feature with two options. Custom API (as previously offered) and Google Sheets. We have more integrations roadmapped and coming soon: Airtable, Sendgrid, Dashbot, Zapier and more. Let us know if you think there's an integration we absolutely need and are missing.
@@ -192,7 +192,7 @@ Future feature additions will include: live canvas collaboration, user testing, 
 
 Winston, who led this feature, made a great tutorial video on using the new Google Sheets integration. Here it is!
 
-[Google Sheet integration](https://youtu.be/O-XAAFRrA20 ':include :type=iframe width=100% height=400px')
+[Google Sheet integration](https://youtu.be/O-XAAFRrA20)
 
 **Why Integrations?**
 
@@ -202,7 +202,7 @@ Let us know what you think of our Google Sheets integration. This will likely be
 
 # **April 13th, 2019 Release**
 
-## **Combine Block Updates**
+**Combine Block Updates**
 
 1. Single blocks now have 'add' buttons located at the bottoms to add additional blocks to a grouping.
 
@@ -228,19 +228,19 @@ https://www.loom.com/share/98342a204d934c099f13f0b7e450be9c
 
 https://www.loom.com/share/bc5629dff0f0460398c13f8e4b017dee
 
-### **Why these changes?**
+**Why these changes?**
 
 Interactions with Alexa and Google, while all different in content should follow some basic design principles. Most interactions should contain some form of output from Alexa and input from the user- which informs your skills/actions logic on how to proceed during the conversation. Combine blocks in Voiceflow make grouping these interactions easier, we hope to see people take advantage of this subtle but powerful change in how you design conversations on Voiceflow.
 
 From the outside looking in, Voiceflow looks like flowcharting software to many. However, our power users understand that conversations built in Voiceflow often don't follow the lines you create. You can hop around based on intents, jump in and out of flows, and change context with ease. We believe grouping interactions with combine blocks creates a more organized way to do this, ultimately creating better conversations. We're excited to see how our users adapt to this change, and look forward to your feedback on how we can improve.
 
-## **Input Updates**
+**Input Updates**
 
 1. We've added icon's to specific drop-downs to distinguish the content you are selecting. This small change is meant to create platform consistency.
 2. We've globally changed the colour of variable inputs to purple, while others will remain blue.
 3. We've added a 'create variable' button to the bottom of all variable drop-downs. This is done to help you create a variable faster without having to manually navigate to the left bar.
 
-## **Other Changes**
+**Other Changes**
 
 1. We changed the colour of the Advanced sections blocks as user feedback indicated it was too similar to other sections.
 2. We made the left bar expandable. This is making way for upcoming changes. Stay tuned
