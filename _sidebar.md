@@ -4,6 +4,9 @@
   - [Get started with Voiceflow](/quickstart/get-started-with-voiceflow.md)
   - [What can I do with Voiceflow](/quickstart/what-can-i-do-with-voiceflow.md)
 
+**BLOCKS** 
+  - [Start block](/blocks/start-block.md)
+
 **TUTORIALS**
   - [What are Alexa skills and Google actions?](/tutorials/what-are-alexa-skills.md)
   - [Alexa skill retention](/tutorials/alexa-skill-retention.md)
