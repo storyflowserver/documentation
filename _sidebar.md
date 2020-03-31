@@ -6,6 +6,10 @@
 
 **BLOCKS** 
   - [Start block](/blocks/start-block.md)
+  - [Speak block](/blocks/speak-block.md)
+  - [Choice block](/blocks/choice-block.md)
+  - [Set block](/blocks/set-block.md)
+  
 
 **TUTORIALS**
   - [What are Alexa skills and Google actions?](/tutorials/what-are-alexa-skills.md)
