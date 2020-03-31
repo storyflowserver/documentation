@@ -9,6 +9,8 @@
   - [Speak block](/blocks/speak-block.md)
   - [Choice block](/blocks/choice-block.md)
   - [Set block](/blocks/set-block.md)
+  - [If block](/blocks/if-block.md)
+  
   
 
 **TUTORIALS**
