@@ -10,7 +10,8 @@
   - [Choice block](/blocks/choice-block.md)
   - [Set block](/blocks/set-block.md)
   - [If block](/blocks/if-block.md)
-  
+  - [Capture block](/blocks/capture-block.md)
+  - [Random block](/blocks/random-block.md)
   
 
 **TUTORIALS**
