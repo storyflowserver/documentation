@@ -12,6 +12,9 @@
   - [If block](/blocks/if-block.md)
   - [Capture block](/blocks/capture-block.md)
   - [Random block](/blocks/random-block.md)
+  - [Stream block](/blocks/stream-block.md)
+  - [Flow block](/blocks/flow-block.md)
+  - [Code block](/blocks/code-block.md)
   
 
 **TUTORIALS**
