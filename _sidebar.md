@@ -17,7 +17,9 @@
   - [Code block](/blocks/code-block.md)
   - [User Info block](/blocks/user-info-block.md)
   - [Reminder block](/blocks/reminder-block.md)
-  
+
+**INTEGRATIONS & APIs**
+- [JSON fundamentals](/integrations/json-fundamentals.md)
 
 **TUTORIALS**
   - [What are Alexa skills and Google actions?](/tutorials/what-are-alexa-skills.md)
