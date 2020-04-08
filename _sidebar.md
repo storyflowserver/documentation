@@ -20,6 +20,7 @@
 
 **INTEGRATIONS & APIs**
 - [JSON fundamentals](/integrations/json-fundamentals.md)
+- [API - object path](/integrations/api-object-path.md)
 
 **TUTORIALS**
   - [What are Alexa skills and Google actions?](/tutorials/what-are-alexa-skills.md)
