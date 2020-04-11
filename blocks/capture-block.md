@@ -12,7 +12,7 @@
 
 The Capture block allows you to capture the user's response into a variable. Once this response is stored in the variable, you can use this value throughout the rest of the skill. 
 
-- i.e. You can ask the user what their name is using a Speak block, then follow that up with a capture block to capture the user's name into a name variable. You could then use the user's name throughout the rest of the project. this is a gchange to demonstrate github.
+- i.e. You can ask the user what their name is using a Speak block, then follow that up with a capture block to capture the user's name into a name variable. You could then use the user's name throughout the rest of the project. this is a gchange to demonstrate github. this is a demonstration on branches
 
 ## How to Use the Capture block
 
