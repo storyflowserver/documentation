@@ -16,3 +16,35 @@ Everything you want to know about Voiceflow - in one place.
 9. Head to Github and add a comment detailing what changes you made
 10. Hit Publish
 
+
+## Languages:
+- English (US)
+
+## Naming files:
+
+- All files must be in dash case ex: “speak-block.md”
+- All files must contain only lower case letter
+
+## Formatting ettiquette:
+
+- All headers must be largest size “#”
+- All section headers must be second largest “##”
+- Language should be platform agnostic. For example: Instead of “Alexa”, say "Voice Assistant"
+File format:
+
+- All files must contain the following:
+    - What you will Learn
+    - Prerequisites
+    - Content (Content that the doc article is about)
+
+## Branch ettiquette
+
+- All new changes MUST be put on a branch with a specific name.
+    - Good ettiquette: “Google Home update”
+    - Bad etiquette: “new article”
+- All new branches must create pull requests to the `dev` environment
+
+
+## Issues etiquette 
+- If you feel something is missing, create an Issue and the community can act to get everything completed
+

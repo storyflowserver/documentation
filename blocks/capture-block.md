@@ -1,12 +1,9 @@
-## What You'll Learn 🧠
+## What You'll Learn 
 
 - What Capture blocks do
 - How to use a Capture block
 - How to capture a user's answer into a variable
 
-## Video Tutorial
-
-(updated video-tutorial coming soon)
 
 ## What the Capture Block Does
 
