@@ -2,20 +2,51 @@
 
 Everything you want to know about Voiceflow - in one place.
 
+# How to contribute to these docs
 
-## How to get started contributing
+## Useful tools to get started
+- Github Desktop/Git
+- Typora (Automatic Markdown Converter)
+- Visual Studio Code (Editor)
+- Macdown (Markdown preview tool)
+
+
+
+## Set up
 
 1. Download [GitHub desktop](https://desktop.github.com/)
+
+![img](https://i.imgur.com/58cm52i.png)
+
 2. Log in with your Github account
 3. Hit "clone a repository from the internet"
+
+![img](https://i.imgur.com/58cm52i.png)
+
 4. Head to Voiceflow/documentation Github repository
 5. Paste it into the text box (`https://github.com/voiceflow/documentation.git`)
+
+![img](https://i.imgur.com/3dMY0By.png)
+
+
+
+
+
+## Contributing
+
 6. Create new branch 
+
 7. Find the folder you want to add your new article to and add the markdown file
 8. Head to _sidebar.md and add your article under any of the categories
 9. Head to Github and add a comment detailing what changes you made
 10. Hit Publish
 
+
+
+
+
+
+# General Rules and Etiquette 
 
 ## Languages:
 - English (US)
