@@ -1,4 +1,4 @@
-# What You'll Learn 🧠
+# What You'll Learn
 - What the Speak block does
 - How to make your Voice Assistant speak
 - How to use different Alexa voices throughout your skill
