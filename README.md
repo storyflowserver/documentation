@@ -88,5 +88,5 @@ File format:
 
 
 ## Issues etiquette 
-- If you feel something is missing, create an Issue and the community can act to get everything completed
+- All outstanding documentation should be added as an Issue. If you feel something is missing or you find an error in the docs, create an Issue and the community can act to get everything completed. 
 
