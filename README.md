@@ -34,14 +34,25 @@ Everything you want to know about Voiceflow - in one place.
 
 ## Contributing
 
-6. Create new branch 
+1. Create new branch 
 
-7. Find the folder you want to add your new article to and add the markdown file
+![img](https://i.imgur.com/Ykt2vVM.png)
+
+![img](https://i.imgur.com/oZsWDjM.png)
+
+2. Open the project in your code editor
+
+![img](https://i.imgur.com/QLqidhp.png)
+
+3. Find the folder you want to add your new article to and add the markdown file
 8. Head to _sidebar.md and add your article under any of the categories
 9. Head to Github and add a comment detailing what changes you made
+
+![img](https://i.imgur.com/wYNn7E6.png)
+
 10. Hit Publish
 
-
+![img](https://i.imgur.com/cGVY2Ie.png)
 
 
 
