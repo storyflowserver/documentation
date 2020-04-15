@@ -8,6 +8,8 @@
   - [Start block](/blocks/start-block.md)
   - [Speak block](/blocks/speak-block.md)
   - [Choice block](/blocks/choice-block.md)
+  - [Intent block](/blocks/intent-block.md)
+  - [Intents and Slots](/blocks/intents-slots.md)
   - [Set block](/blocks/set-block.md)
   - [If block](/blocks/if-block.md)
   - [Capture block](/blocks/capture-block.md)
