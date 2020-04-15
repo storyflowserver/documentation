@@ -62,7 +62,7 @@ The slot will look for any of the values that were specified in the slot utteran
 ![img](https://i.imgur.com/Rp5QBkc.png)
 
 
-Synonyms can also be added for each of the utterances of your slot. These will allow your user to say a variety of words and trigger the root word of the synonym. For example, if the user says veggie or mushroom, the word vegetarian will be triggered and saved in your utterance.
+Synonyms can also be added for each of the utterances of your slot. These will allow your user to say a variety of words and trigger the root word of the synonym. For example, if the user says veggie or mushroom, the word vegetarian will be triggered and saved in your Slot.
 
 ![img](https://i.imgur.com/5dvuF5T.png)
 
